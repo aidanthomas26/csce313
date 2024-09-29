@@ -1,0 +1,18 @@
+﻿File Size
+	Transfer Time
+	1kb
+	1 ms
+	1mb
+	23 ms
+	10mb
+	185 ms
+	100mb
+	1243 ms
+	1gb
+	12342 ms
+	
+
+This shows how much longer the file takes to transfer depending on the size of the file.
+
+
+The 100mb file took 1243ms and seems to be taking a long time because it is a larger file. I think the biggest bottleneck may be the buffer size or the network.
